@@ -21,8 +21,11 @@
    - Prestasi: Aplikasi ini berhasil mendapatkan pendanaan dalam melakukan inkubasi dan menduduki peringkat ketiga dalam Bangkit Academy 2022.
    
    ![data 1](https://github.com/BrylianFandhi/Portofolio/blob/48fbce07330a9fd89f8aa3cee77ac6df9ce95740/Untitled.png)
+   ![data 2](https://github.com/BrylianFandhi/Portofolio/blob/ad3578c06bc5782f4e869cc8faa5c7b4c1fb92dd/Untitled%20(1).png)
+   ![data 3](https://github.com/BrylianFandhi/Portofolio/blob/ad3578c06bc5782f4e869cc8faa5c7b4c1fb92dd/Untitled%20(7).png)
+   ![data 4](https://github.com/BrylianFandhi/Portofolio/blob/ad3578c06bc5782f4e869cc8faa5c7b4c1fb92dd/Untitled%20(2).png)
    
-2. **Sistem Waste Management dengan Odoo ERP (Masih berjalan)**
+3. **Sistem Waste Management dengan Odoo ERP (Masih berjalan)**
    - Peran: Anggota Tim Pengembang
    - Tantangan: Membuat sistem waste management menggunakan platform Odoo ERP. Serta dilakukan deploy ke sebuah server
    - Kontribusi: Menjadi project manager dalam pembuatan sistem tersebut.
