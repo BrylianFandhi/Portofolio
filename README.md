@@ -81,10 +81,10 @@
 ## Sertifikasi dan Penghargaan:
 
 - Sertifikat Microcredential Associate Data Scientist
-![Sertifikat Microcredential](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d3b6c5b1-a22d-4f5b-a662-bb7ca924614c/Untitled.png)
+![Sertifikat Microcredential](https://github.com/BrylianFandhi/Portofolio/blob/a2f4bf644c3107cf040e9647e19163e2df5f9dbf/Untitled%20(5).png)
 
 - Intel AI for Future Workforce: Associate AI Analyst
-![Sertifikat Intel AI](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8d64e57d-f031-4758-be31-05946fcc17a0/Untitled.png)
+![Sertifikat Intel AI](https://github.com/BrylianFandhi/Portofolio/blob/a2f4bf644c3107cf040e9647e19163e2df5f9dbf/Untitled%20(6).png)
 
 - Predikat "Distinction Graduated" dalam program Bangkit Academy Machine Learning Path ([link sertifikat](https://www.linkedin.com/in/brylian-fandhi-safsalta-123010229/overlay/experience/2156033502/multiple-media-viewer?profileId=ACoAADkh4asBRery_mMdQKOmQFZoiZQdxL2suk4&treasuryMediaId=1635523030051&type=IMAGE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B3TQMvOc1Q4aWW4RPE7fHag%3D%3D))
 - Tensorflow Developer Certificate ([link sertifikat](https://www.credential.net/3fd58dc3-0590-4319-84e9-83c0ac73503f#gs.4kcwgb))
@@ -116,7 +116,7 @@
 - Mewakili daerah ke tingkat provinsi dalam kejuaraan Porprov bola basket 3x3 pada 2023 dengan mendapat peringkat 6
 - Mewakili daerah ke tingkat provinsi dalam kejuaraan PraPorprov bola basket 3x3 pada 2022 dengan mendapat peringkat 5
 
-![Prestasi non-teknis](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3d1931d1-19a2-4488-b15b-0200b24cff35/Untitled.png)
+![Prestasi non-teknis](https://github.com/BrylianFandhi/Portofolio/blob/b5487f0b9c4e3614b5bf54cf7eee97182b701a39/Untitled%20(8).png)
 
 - Menjuarai berbagai turnamen lokal dengan club maupun semasa SMA.
 
