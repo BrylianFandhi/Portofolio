@@ -30,7 +30,8 @@
    - Tantangan: Membuat sistem waste management menggunakan platform Odoo ERP. Serta dilakukan deploy ke sebuah server
    - Kontribusi: Menjadi project manager dalam pembuatan sistem tersebut.
    
-   ![Sistem Waste Management](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cb5bfee0-d6a6-4d72-a40e-00d06d789b3d/Untitled.jpeg)
+   ![SistemWasteManagement1](https://github.com/BrylianFandhi/Portofolio/blob/8bc96bdfeadb2b6c344bfa76d040009d2caab7a8/Untitled.jpeg)
+   ![SistemWasteManagement2](https://github.com/BrylianFandhi/Portofolio/blob/8bc96bdfeadb2b6c344bfa76d040009d2caab7a8/Untitled%20(1).jpeg)
 
 ## Keahlian Teknis:
 
