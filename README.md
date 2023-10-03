@@ -20,7 +20,7 @@
    - Kontribusi: Mengembangkan model machine learning untuk mengklasifikasikan penyakit pada daun tanaman tomat dan terong dengan data yang diambil sendiri pada suatu perkebunan.
    - Prestasi: Aplikasi ini berhasil mendapatkan pendanaan dalam melakukan inkubasi dan menduduki peringkat ketiga dalam Bangkit Academy 2022.
    
-   ![Aplikasi Tanamin]([Untitled.png](https://github.com/BrylianFandhi/Portofolio/blob/48fbce07330a9fd89f8aa3cee77ac6df9ce95740/Untitled.png))
+   [![Aplikasi Tanamin]([Untitled.png](https://github.com/BrylianFandhi/Portofolio/blob/48fbce07330a9fd89f8aa3cee77ac6df9ce95740/Untitled.png))](https://github.com/BrylianFandhi/Portofolio/blob/48fbce07330a9fd89f8aa3cee77ac6df9ce95740/Untitled.png)
    
 2. **Sistem Waste Management dengan Odoo ERP (Masih berjalan)**
    - Peran: Anggota Tim Pengembang
