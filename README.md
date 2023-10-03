@@ -59,14 +59,15 @@
     - Link: [Tanamin Apps](https://play.google.com/store/apps/details?id=com.app.tanamin)
     - Kontribusi: Berperan dalam tim machine learning dalam mengembangkan model untuk mengklasifikasikan penyakit pada tanaman tomat dan terong.
    
-    ![Model Machine Learning Tanamin](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7fc1022a-f1ad-4d86-bef5-3fe3b6924e50/Untitled.png)
+    ![Machine Learning pada Aplikasi Tanamin](https://github.com/BrylianFandhi/Portofolio/blob/ad3578c06bc5782f4e869cc8faa5c7b4c1fb92dd/Untitled%20(7).png)
    
 - **Aplikasi Pembelian Komponen Komputer**
     - Produk: [Aplikasi Pembelian Komponen Komputer](https://chat.openai.com/link_aplikasi_tanamin)
     - Link: [Link Application](https://github.com/BrylianFandhi/PPB/tree/9a92f15b79873980f3e37f783f04f187e53c886a/UAS4506_12169_12197_12201_12206)
     - Kontribusi: Berperan membbuat penuh proyek atau tugas tersebut sebagai keperluan UAS pada salah satu mata pelajaran pada perkuliahan yang saya jalani.
    
-    ![Aplikasi Pembelian Komponen Komputer](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a4672f8e-8ba1-45e9-b4ef-dfee674b235e/Untitled.png)
+    ![Aplikasi Pembelian Komponen Komputer1](https://github.com/BrylianFandhi/Portofolio/blob/df6c7a2c9c905f07d8f763c5faf5fc7f99c6eb88/Untitled%20(4).png)
+    ![Aplikasi Pembelian Komponen Komputer2](https://github.com/BrylianFandhi/Portofolio/blob/df6c7a2c9c905f07d8f763c5faf5fc7f99c6eb88/Untitled%20(3).png)
    
 - **Model Machine Learning Rekomendasi Buku**
     - Produk: Model Machine learning dengan algoritma Collaborative Filtering
