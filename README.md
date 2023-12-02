@@ -25,13 +25,19 @@
    ![data 3](https://github.com/BrylianFandhi/Portofolio/blob/ad3578c06bc5782f4e869cc8faa5c7b4c1fb92dd/Untitled%20(7).png)
    ![data 4](https://github.com/BrylianFandhi/Portofolio/blob/ad3578c06bc5782f4e869cc8faa5c7b4c1fb92dd/Untitled%20(2).png)
    
-3. **Sistem Waste Management dengan Odoo ERP (Masih berjalan)**
+2. **Sistem Waste Management dengan Odoo ERP (Masih berjalan)**
    - Peran: Anggota Tim Pengembang
    - Tantangan: Membuat sistem waste management menggunakan platform Odoo ERP. Serta dilakukan deploy ke sebuah server
    - Kontribusi: Menjadi project manager dalam pembuatan sistem tersebut.
    
    ![SistemWasteManagement1](https://github.com/BrylianFandhi/Portofolio/blob/8bc96bdfeadb2b6c344bfa76d040009d2caab7a8/Untitled.jpeg)
    ![SistemWasteManagement2](https://github.com/BrylianFandhi/Portofolio/blob/8bc96bdfeadb2b6c344bfa76d040009d2caab7a8/Untitled%20(1).jpeg)
+
+3. **SofosRobotics Fakultas Teknik Udinus**
+   - Peran: Project Manager dan Tim Pengembang
+   - Tantangan: Membuat Website SofosRobotics yang saat ini sedang dalam pengembangan (90%) dalam memamerkan produk, pelatihan, dan event hingga dapat melakukan pemilihan pemesanan barang melalui website. Pemngembangan website tersebut menggunakan laravel 10 yang memiliki banyak data yang harus disimpan didalamnya menggunakan database phpmyadmin.
+   - Kontribusi: Menjadi project manager dalam pembuatan sistem tersebut.
+   - Link desain figma: https://www.figma.com/file/TGnKOALNZHucoXrpwqdrNp/web?type=design&node-id=0%3A1&mode=design&t=O5M47ZfS6TqOxaph-1
 
 ## Keahlian Teknis:
 
