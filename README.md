@@ -127,5 +127,7 @@
 - Menjuarai berbagai turnamen lokal dengan club maupun semasa SMA.
 
 LinkedIn: [Brylian Fandhi Safsalta](https://www.linkedin.com/in/brylian-fandhi-safsalta-123010229/)
-GitHub: [BrylianFandhi](https://github.com/BrylianFandhi)
+GitHub: [BrylianFandhi](https://github.com/BrylianFandhi) 
 Instagram: [brylianfandhi](https://www.instagram.com/brylianfandhi/)
+
+Portofolio Sourch: https://github.com/BrylianFandhi/Portofolio.git
