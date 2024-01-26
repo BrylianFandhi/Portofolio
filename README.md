@@ -35,7 +35,7 @@
 
 3. **SofosRobotics Fakultas Teknik Udinus**
    - Peran: Project Manager dan Tim Pengembang
-   - Tantangan: Membuat Website SofosRobotics yang saat ini sedang dalam pengembangan (90%) dalam memamerkan produk, pelatihan, dan event hingga dapat melakukan pemilihan pemesanan barang melalui website. Pemngembangan website tersebut menggunakan laravel 10 yang memiliki banyak data yang harus disimpan didalamnya menggunakan database phpmyadmin.
+   - Tantangan: Membuat Website SofosRobotics dalam memamerkan produk, pelatihan, dan event hingga dapat melakukan pemilihan pemesanan robot angkut melalui website. Pemngembangan website tersebut menggunakan laravel 10 yang memiliki banyak data yang harus disimpan didalamnya menggunakan database phpmyadmin dalam server.
    - Kontribusi: Menjadi project manager dalam pembuatan sistem tersebut.
    - Link desain figma: https://www.figma.com/file/TGnKOALNZHucoXrpwqdrNp/web?type=design&node-id=0%3A1&mode=design&t=O5M47ZfS6TqOxaph-1
 
